@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+                        
+    
+    
+    
+    
+    <wb-module deploy-name="DatabaseWebApp">
+                                                
+        
+        
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/JavaResources/src"/>
+        <wb-resource deploy-path="/" source-path="/WebContent"/>
+                                                
+        
+        
+        
+        
+        <property name="context-root" value="Database_App"/>
+                                                
+        
+        
+        
+        
+        <property name="java-output-path" value="/DatabaseWebApp/build/classes"/>
+                                            
+    
+    
+    
+    
+    </wb-module>
+                    
+
+
+
+
+</project-modules>
